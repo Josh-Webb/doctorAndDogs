@@ -1,0 +1,33 @@
+{
+  "doctor ": [
+    {
+      "name": "Josh",
+      "speciality": "Cat Doc",
+      "address": "1901",
+      "id": 1
+    },
+    {
+      "name": "ONce",
+      "speciality": "Twice",
+      "address": "Thrrice",
+      "id": 2
+    }
+  ],
+  "bowWowKennel": [
+    {
+      "name": "BB",
+      "breed": "Strong Girl",
+      "id": 1
+    },
+    {
+      "name": "Sophie",
+      "breed": "Saint Bernard",
+      "id": 2
+    },
+    {
+      "name": "Peaches",
+      "breed": "Shitzu",
+      "id": 3
+    }
+  ]
+}
